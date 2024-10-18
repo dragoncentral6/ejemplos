@@ -54,7 +54,7 @@ body{
     margin: 5px;
     height: auto;
     align-content: center;
-    max-height: 45dvh;
+    max-height: 60dvh;
     overflow-y: scroll;
 }
 .resTarea{
